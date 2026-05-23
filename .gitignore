@@ -1,0 +1,34 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated MIDI/audio and data directories
+Generated_midi/Dataset*
+pool/**/clean/
+pool/**/noise/
+validation/audio/
+validation/midi/
+validation/manifests/
+drive-download-20260507T215910Z-3-001/
+
+# expand_sustain generated data
+expand_sustain/Stretched*/
+
+# some random files
+A_Minor_Tezeta*
+drive-download*
+Ethiopia_Challenge*
+expand_sustain.rar
+higher_masinko.m4a
+long_masinko*
+test_ouptut.wav

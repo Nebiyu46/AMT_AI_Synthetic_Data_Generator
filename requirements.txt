@@ -1,0 +1,10 @@
+numpy
+scipy
+soundfile
+librosa
+pretty_midi
+pedalboard
+mir_eval
+basic-pitch
+matplotlib
+pydub
